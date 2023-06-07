@@ -1,4 +1,4 @@
-# vue-course
+# vue-study-project
 
 ## Project setup
 ```
